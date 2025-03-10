@@ -1,0 +1,47 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "type": "Full Time",
+      "title": "Frontend Developer1",
+      "company": "TechCorp",
+      "location": "Remote",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "salary": "$70,000 - $90,000 / year",
+      "description": "We are looking for a skilled frontend developer to create intuitive user interfaces and enhance our web applications."
+    },
+    {
+      "title": "Backend Developer",
+      "company": "DevSolutions",
+      "location": "New York, NY",
+      "salary": "$80,000 - $100,000 / year",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "type": "Part Time",
+      "description": "Seeking an experienced backend developer to design and maintain robust APIs and databases for our applications.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "type": "Internship",
+      "title": "UI/UX Designer",
+      "company": "Creative Minds",
+      "location": "San Francisco, CA",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "User Research"
+      ],
+      "salary": "$65,000 - $85,000 / year",
+      "description": "Looking for a talented UI/UX designer to craft user-friendly interfaces and engaging user experiences."
+    }
+  ]
+}
