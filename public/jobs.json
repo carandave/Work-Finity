@@ -42,6 +42,18 @@
       ],
       "salary": "$65,000 - $85,000 / year",
       "description": "Looking for a talented UI/UX designer to craft user-friendly interfaces and engaging user experiences."
+    },
+    {
+      "id": "fd80",
+      "title": "Dolore elit animi ",
+      "company": "Natus iste earum arc",
+      "location": "Voluptatum recusanda",
+      "salary": "Quis qui officia ab ",
+      "skills": [
+        "Molestias qui dolore"
+      ],
+      "type": "Part Time",
+      "description": "Est nostrud lorem u"
     }
   ]
 }
